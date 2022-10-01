@@ -1,0 +1,4 @@
+#Thu Sep 29 16:06:06 IST 2022
+base.0=/Users/macbookpro/Downloads/flutter_hive_db_blog/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
