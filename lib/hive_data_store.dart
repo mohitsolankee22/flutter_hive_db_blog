@@ -6,7 +6,7 @@ class HiveDataStore {
   static const boxName = "userBox";
 
   // Get reference to an already opened box
-  static Box<UserModel> box = Hive.box<UserModel>(boxName);
+  static Box box = Hive.box(boxName);
 
   /// Add new user
   Future<void> addUser({required UserModel userModel}) async {
